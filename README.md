@@ -1,7 +1,7 @@
 
 Afforfability Planner
 
-https://proteek-dev.github.io/Macquarian/
+https://proteek-dev.github.io/affordability-planner/
 
 <h1 align="center">
     <a href="https://amplication.com/#gh-light-mode-only">
