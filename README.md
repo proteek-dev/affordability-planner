@@ -17,7 +17,7 @@
 ## Website
 
 <p align="center">
-    <a href="https://proteek-dev.github.io/affordability-planner/">Website</a>
+    <a href="https://macquarian.my.canva.site/">Website</a>
 </p>
 
 
