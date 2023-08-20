@@ -93,9 +93,13 @@ Current school quality ranking is based on publicly available ICSEA score via AC
 ## Contributors
 
 Tableau dashboard: Taylor https://github.com/navasikya06
+
 Web: Mel https://github.com/melbreaker
+
 Figma prototype: Suyash https://github.com/suyashpokharel
+
 Github Readme: Proteek https://github.com/proteek-dev
+
 
 <!---
 npx contributer-faces --exclude "*bot*" --limit 70 --repo "https://github.com/amplication/amplication"
