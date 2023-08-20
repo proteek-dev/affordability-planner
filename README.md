@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="https://proteek-dev.github.io/affordability-planner/">Afforfability Planner</a>
+    <a href="https://proteek-dev.github.io/affordability-planner/">Affordability Planner</a>
 </p>
 
 <h4 align="center">
