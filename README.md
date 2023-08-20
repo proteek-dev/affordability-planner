@@ -77,16 +77,6 @@ Detailed information on average rental prices, school location and school qualit
 </details>
 
 
-<details>
-<summary>
-  Tutorials
-</summary> <br />
-
-- [To-do application using Amplication and Angular](https://docs.amplication.com/tutorials/angular-todos)
-- [To-do application using Amplication and React](https://docs.amplication.com/tutorials/react-todos)
-</details>
-
-
 ## Contributers
 
 <!---
