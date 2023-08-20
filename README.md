@@ -21,14 +21,14 @@
 </p>
 
 
-## Prototype (Mobile App)
+## Prototype
 
 <p align="center">
     <a href="https://www.figma.com/proto/jH3mzKOrrkYTAMqNKsp241/Macquarian---Affordability-Planner-(GovHack-2023)?type=design&node-id=2-964&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A964">App</a>
   &nbsp;
-  <a href="https://proteek-dev.github.io/affordability-planner/">Website(NSW)</a>
+  <a href="https://proteek-dev.github.io/affordability-planner/">Website (NSW)</a>
   &nbsp;
-  <a href="https://proteek-dev.github.io/affordability-planner/tasmania.html">Website(Tasmania)</a>
+  <a href="https://proteek-dev.github.io/affordability-planner/tasmania.html">Website (Tasmania)</a>
 </p>
 
 ## Introduction
@@ -90,7 +90,12 @@ Current school quality ranking is based on publicly available ICSEA score via AC
 
 
 
-## Contributers
+## Contributors
+
+Tableau dashboard: Taylor https://github.com/navasikya06
+Web: Mel https://github.com/melbreaker
+Figma prototype: Suyash https://github.com/suyashpokharel
+Github Readme: Proteek https://github.com/proteek-dev
 
 <!---
 npx contributer-faces --exclude "*bot*" --limit 70 --repo "https://github.com/amplication/amplication"
