@@ -29,7 +29,7 @@
 
 ## Introduction
 
-Cost of living is a key issue effecting many SW citizens Australia is currently facing high inflation, surging housing demand and increased interest rates. The topic of housing affordability is a
+Cost of living is a key issue effecting many NSW citizens Australia is currently facing high inflation, surging housing demand and increased interest rates. The topic of housing affordability is a
 'real' issue that residents are dealing with as they plan for the future of the family. Many residents have recently experienced rental price hikes as NSW tackles the issue of housing availability and landlords struggle to make their repayments.
 
 The NSW Department of Planning estimates that an additional 904,000 homes will be needed over the next 20 years to house its growing population. The majority of planned dwellings will be situated outside of the Sydney CB, primarily in the Greater Sydney Region.While there is rich information out there in the public domain, it is complex. When families are time poor and under financial stress, navigating this ocean of data to make an informed choice on their next move is not easy.
