@@ -4,12 +4,6 @@
 </p>
 
 <h4 align="center">
-  <a href="https://github.com/amplication/amplication/actions/workflows/ci.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/amplication/amplication/ci.yml?branch=master&label=pipeline&style=flat-square" alt="continuous integration">
-  </a>
-  <a href="https://www.figma.com/proto/jH3mzKOrrkYTAMqNKsp241/Macquarian---Affordability-Planner-(GovHack-2023)?type=design&node-id=2-964&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A964">
-    <img src="https://img.shields.io/badge/apache%202.0-blue.svg?style=flat-square&label=app" alt="continuous integration">
-  </a>
   <br>
   <a href="https://discord.gg/EJhUjMCd8m">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
@@ -22,7 +16,16 @@
 
 ## Website
 
+<p align="center">
+    <a href="https://proteek-dev.github.io/affordability-planner/">Website</a>
+</p>
+
+
 ## App(Prototype)
+
+<p align="center">
+    <a href="https://www.figma.com/proto/jH3mzKOrrkYTAMqNKsp241/Macquarian---Affordability-Planner-(GovHack-2023)?type=design&node-id=2-964&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A964">App</a>
+</p>
 
 ## Introduction
 
@@ -53,7 +56,7 @@ Detailed information on average rental prices, school location and school qualit
 ## Architecture
 
 <p align="center">
-    <img src="https://github.com/proteek-dev/affordability-planner/blob/main/docs/UML class.png" alt="architecture"/>
+    <img src="https://github.com/proteek-dev/affordability-planner/blob/main/docs/UML_class.png" alt="architecture"/>
 </p>
 
 <details open>
