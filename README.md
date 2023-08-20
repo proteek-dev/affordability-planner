@@ -90,6 +90,6 @@ change the height and width for each of the contributors from 80 to 50.
 <a href="https://github.com/proteek-dev"><img src="https://github.com/account" title="Proteek" width="50" height="50"></a>
 <a href="https://github.com/melbreaker"><img src="https://avatars.githubusercontent.com/u/804658?v=4" title="Mel" width="50" height="50"></a>
 <a href="https://github.com/garv1510"><img src="https://avatars.githubusercontent.com/u/57868866?v=4" title="Garv" width="50" height="50"></a>
-<a href="https://github.com/morhag90"><img src="https://avatars.githubusercontent.com/u/97830649?v=4" title="morhag90" width="50" height="50"></a>
+<a href="https://github.com/suyashpokharel"><img src="https://avatars.githubusercontent.com/u/47374758?v=4" title="morhag90" width="50" height="50"></a>
 
 [//]: contributor-faces
