@@ -14,17 +14,21 @@
     <img src="https://github.com/proteek-dev/affordability-planner/blob/main/docs/planner.gif" alt="dashboard"/>
 </p>
 
-## Website
+## Project
 
 <p align="center">
-    <a href="https://macquarian.my.canva.site/">Website</a>
+    <a href="https://macquarian.my.canva.site/">Protject</a>
 </p>
 
 
-## App(Prototype)
+## Prototype(App)
 
 <p align="center">
     <a href="https://www.figma.com/proto/jH3mzKOrrkYTAMqNKsp241/Macquarian---Affordability-Planner-(GovHack-2023)?type=design&node-id=2-964&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A964">App</a>
+  &nbsp;
+  <a href="https://proteek-dev.github.io/affordability-planner/">Website(NSW)</a>
+  &nbsp;
+  <a href="https://proteek-dev.github.io/affordability-planner/tasmania.html">Website(Tasmania)</a>
 </p>
 
 ## Introduction
@@ -59,6 +63,12 @@ Detailed information on average rental prices, school location and school qualit
     <img src="https://github.com/proteek-dev/affordability-planner/blob/main/docs/UML class.png" alt="architecture"/>
 </p>
 
+
+## Pilot data constraints
+
+Current school quality ranking is based on publicly available ICSEA score via ACARA. ICSEA Definition: The Index of Community Socio-Educational Advantage score for the school. This score is derived from a number of variables including parental school and non-school education and occupation, the school’s geographical location and proportion of Indigenous students. As a proof of concept ICSEA has been utilised for the purpose of assume a 'quality' for a given school that is not ideal. ACARA includes more detailed results of school outcomes (for example 'Average NAPLAN Score'). Due to the sensitivity of the data on individual school performance, the information is not immediately acessible, however accessible via a data request to ACARA. This enhanced data can be scrubbed to provide a generic suburb quality score to improve of the Affordability Checker output.
+
+
 <details open>
 <summary>
  Features
@@ -75,6 +85,8 @@ Detailed information on average rental prices, school location and school qualit
 </p> 
     
 </details>
+
+
 
 
 ## Contributers
