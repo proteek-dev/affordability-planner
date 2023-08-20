@@ -17,7 +17,7 @@
 ## Project
 
 <p align="center">
-    <a href="https://macquarian.my.canva.site/">Protject</a>
+    <a href="https://macquarian.my.canva.site/">Project</a>
 </p>
 
 
@@ -52,9 +52,10 @@ Macquarian has sourced public domain information from:
 <ol>
   <li>NSW Data (data.nsw.gov.au)</li>
   <li>NSW Family & Community Services (facs.nsw.gov.au)</li>
+  <li>Australian Curriculum, Assessment and Reporting Authority (acara.edu.au)</li>
 </ol>
 
-Australian Curriculum, Assessment and Reporting Authority (acara.edu.au)
+
 Detailed information on average rental prices, school location and school quality have been ingested into a Tableau dashboard to provide a geospatial heatmap of potential 'affordable' suburbs along with available schooling. Users can expect to interact with the application via a Desktop and Mobile App, input their accommodation needs to have a visual overlay of their affordable areas in the NSW Region. They can then make informed decisions on potential locations taking into consideration convenience factors (e.g. distance from work) while having a list of schools available for their schooling needs.
 
 ## Architecture
