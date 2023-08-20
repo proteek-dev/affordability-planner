@@ -1,6 +1,6 @@
 
 <p align="center">
-  <i align="center">Affordability Planner 🚀</i>
+  <i align="center">##Affordability Planner 🚀</i>
 </p>
 
 <h4 align="center">
