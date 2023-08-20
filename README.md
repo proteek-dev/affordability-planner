@@ -53,7 +53,7 @@ Detailed information on average rental prices, school location and school qualit
 ## Architecture
 
 <p align="center">
-    <img src="https://github.com/proteek-dev/affordability-planner/blob/main/docs/UML_class.png" alt="architecture"/>
+    <img src="https://github.com/proteek-dev/affordability-planner/blob/main/docs/UML class.png" alt="architecture"/>
 </p>
 
 <details open>
