@@ -1,0 +1,1 @@
+(t=>{t.events.ctaClick=e=>{const n=t.linkText(e.currentTarget),c=e.currentTarget.getAttribute("href");t.dlPush({event:"Call_To_Action_Click",event_category:"CTA",event_action:"Click",event_label:n,destinationURL:c})}})(SnswAnalytics);

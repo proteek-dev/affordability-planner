@@ -1,0 +1,1 @@
+class SnswMobileBrowserOverride{constructor(){if(window.navigator.userAgent.match(/ServiceNSW\/MobileApp\/WebView/)){document.querySelector("html").classList.add("js-snsw-mobile-browser")}}}window.addEventListener("DOMContentLoaded",()=>{new SnswMobileBrowserOverride});

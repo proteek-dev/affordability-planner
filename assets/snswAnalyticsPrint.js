@@ -1,0 +1,1 @@
+(({behaviors:e},n)=>{n.events.printClick=()=>{n.dlPush({event:"usage",event_category:"Print",event_action:"PDF",event_label:"Print:"+n.currentUrl()})},e.SnswAnalyticsPrint={attach(e){window.addEventListener("DOMContentLoaded",()=>{const t=e.querySelector(".social-sharing__print");t&&t.addEventListener("click",n.events.printClick)})}}})(Drupal,SnswAnalytics);
