@@ -21,7 +21,7 @@
 </p>
 
 
-## Prototype(App)
+## Prototype (Mobile App)
 
 <p align="center">
     <a href="https://www.figma.com/proto/jH3mzKOrrkYTAMqNKsp241/Macquarian---Affordability-Planner-(GovHack-2023)?type=design&node-id=2-964&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A964">App</a>
