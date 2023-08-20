@@ -1,8 +1,4 @@
 
-<h1 align="center">
-    <img src="https://github.com/proteek-dev/affordability-planner/blob/main/docs/logo.gif" alt="Logo">
-</h1>
-
 <p align="center">
     <a href="https://proteek-dev.github.io/affordability-planner/">Afforfability Planner</a>
 </p>
@@ -23,6 +19,10 @@
 <p align="center">
     <img src="https://github.com/proteek-dev/affordability-planner/blob/main/docs/planner.gif" alt="dashboard"/>
 </p>
+
+## Website
+
+## App(Prototype)
 
 ## Introduction
 
@@ -81,9 +81,6 @@ Detailed information on average rental prices, school location and school qualit
     
 </details>
 
-## Usage 
-
-To get started with Amplication, the hosted version of the product can be used. You can get started immediately at [app.amplication.com](https://app.amplication.com). After the login page you will be guided through creating your first service. The [website](https://amplication.com) provides an overview of the application, additional information on the product and guides can be found on the [docs](https://docs.amplication.com).
 
 <details>
 <summary>
